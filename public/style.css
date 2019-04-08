@@ -1,0 +1,14 @@
+body {
+  color: white;
+  text-align: center;
+  background-repeat: no-repeat;
+  background: linear-gradient(to bottom, #525252, #3d72b4);
+}
+
+ul {
+  list-style-type: none;
+}
+
+html {
+  min-height: 100%;
+}
